@@ -1,0 +1,53 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+ .signup-page 
+
+ {
+
+  background-image: url("download.jpeg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+  width: 500px;
+  padding: 7% 6% 15% 6%;
+  margin: auto;
+  text-align: center;
+
+}
+.form {
+  position: relative;
+  background: #000000;
+  max-width: 360px;
+  margin: 0 auto 100px;
+  padding: 20px;
+  text-align: center;
+}
+.form input {
+  font-family: "COMIC SANS MS", sans-serif;
+  outline: 10;
+  background: #666666;
+  width: 100%;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+.form button {
+  font-family: "courier new header", sans-serif;
+  text-transform: uppercase;
+  outline: 0;
+  background: #595959;
+  width: 100%;
+  border: 0;
+  padding: 10px;
+  color: #000000;
+  font-size: 17px; 
+  cursor: pointer;
+}
+body {
+  /*background: #001A4D;*/
+  background-image: url("hacking.jpg");
+  font-size: "Roboto", sans-serif;
+  text-align: center;
+
+}
